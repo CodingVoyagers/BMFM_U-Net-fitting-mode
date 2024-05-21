@@ -12,7 +12,7 @@ An innovative causal analysis mechanism is proposed to explain the internal comp
 
 ### Tree structure visualisation of fitted models for U-Net
 Visualisation of the tree structure of the fitted model via **visualTree.py**
-<img src="https://github.com/CodingVoyagers/BMFM_U-Net-fitting-model/blob/main/76_DTtree.png" />
+<img src="https://github.com/CodingVoyagers/BMFM_U-Net-fitting-mode/76_DTtree.png" />
 ### Tree structure visualisation of fitted models for U-Net
 1.Causal rule extraction for GBDT-based U-Net's fitted model via **rulesExtraction.py**. The causal rule extraction results are stored in ***/RULE/rules3.pkl***.<br>
 2.The performance of fitting the causal rules extracted in the first step of this section was tested by **testRules.py**.
